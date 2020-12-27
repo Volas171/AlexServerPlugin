@@ -1,0 +1,7 @@
+{
+  "name": "AlexServerPlugin",
+  "author": "Alex",
+  "main": "example.AlexServerPlugin",
+  "description": "A plugin to demonstrate some AlexServerPlugin features.",
+  "version": 2.0
+}

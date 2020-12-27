@@ -1,0 +1,38 @@
+name: Java Check
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up JDK 14
+      uses: actions/setup-java@v1
+      with:
+        java-version: 14
+    - name: Grant execute permission for gradlew
+      run: chmod +x gradlew
+    - name: Build with Gradle
+      run: ./gradlew jar
+    - name: Upload built jar file
+      uses: actions/upload-artifact@v2
+      with:
+        name: alexserverplugin.jar
+        path: build/libs/AlexServerPlugin.jar
+
+    - name: Create Release
+      if: strategy.job-index == 0
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          tag_name: ${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          body: |
+            Alex plugin Build ${{ github.run_number }}
+          draft: false
+          prerelease: true
