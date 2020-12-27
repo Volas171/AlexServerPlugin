@@ -1,6 +1,6 @@
 ﻿### Main plugin for Alex's server
 
-![Java Check](https://github.com/alexpvpmindustry/AlexServerPlugin/workflows/Java%20Check/badge.svg)
+![Java Check](https://github.com/Volas171/AlexServerPlugin/workflows/Java%20Check/badge.svg)
 
 **phase 1:** make admins and mods ability asap
 * use https://github.com/Anuken/AuthorizePlugin/blob/master/src/authorize/AuthorizePlugin.java to save data
