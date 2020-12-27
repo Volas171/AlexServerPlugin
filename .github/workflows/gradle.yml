@@ -35,4 +35,4 @@ jobs:
           body: |
             Alex plugin Build ${{ github.run_number }}
           draft: false
-          prerelease: true
+          prerelease: false
