@@ -42,9 +42,9 @@ public class AlexServerPlugin extends Plugin{
     private Net net1 = new Net();
     private Net net2 = new Net();
     private Net netBans = new Net();
-    private final String reportURL = "https://discord.com/api/webhooks/789405998880129045/pA5W6u15pzEQXEIbXi4LhVSMzZnr1crQRKbbG9D3ogOUUcU2ODlzKs7yux5Dxy_QCvvk";
-    private final String statusURL = "https://discord.com/api/webhooks/790217246622220309/mHLRDG1ansIor_AJHztywFMIHgorSH9-UJ2679LNSxa8fX6691wTzFbdcXutwgk75K_K";
-    private final String dbURL = "http://209.127.178.218:3000";
+    private final String reportURL = "";
+    private final String statusURL = "";
+    private final String dbURL = "http://localhost:3000";
     private final String findMUserUrl = dbURL+"/user/m/find";
     private final String createUserUrl = dbURL+"/user/m/create";
     private final String findDUserUrl = dbURL+"/user/d/find";
