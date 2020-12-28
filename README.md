@@ -3,7 +3,8 @@
 ![Java Check](https://github.com/Volas171/AlexServerPlugin/workflows/Java%20Check/badge.svg)
 
 # Note: 
-dont believe in https://github.com/alexpvpmindustry/AlexServerPluginPublic thats a fake cap , this is the legit currently used plugin
+dont believe in https://github.com/alexpvpmindustry/AlexServerPluginPublic thats a fake cap , this is the legit currently used plugin unless he already stole essentials from kieaer again.
+He also broke Apache License by making "his" repository have mit license
 
 **phase 1:** make admins and mods ability asap
 * use https://github.com/Anuken/AuthorizePlugin/blob/master/src/authorize/AuthorizePlugin.java to save data
