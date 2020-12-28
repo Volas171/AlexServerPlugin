@@ -5,6 +5,14 @@
 # Note: 
 dont believe in https://github.com/alexpvpmindustry/AlexServerPluginPublic thats a fake cap , this is the legit currently used plugin unless he already stole essentials from kieaer again.
 He also broke Apache License by making "his" repository have mit license
+</div>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Blmaorep%7D/count.svg" alt="lmaorep :: Visitor's Count" /></p>
+
+</div>
+
+#TODO:
 
 **phase 1:** make admins and mods ability asap
 * use https://github.com/Anuken/AuthorizePlugin/blob/master/src/authorize/AuthorizePlugin.java to save data
@@ -24,7 +32,7 @@ commands needed in phase1
 **phase 2:** sync this across a database
 
 
-## TODO:
+## Expectative:
 make it pull stuff from database (maybe making json but uploading them to pipedream like urls)
 make rank system be displayed
 make rtv system integrated to this plugin
