@@ -3,8 +3,7 @@
 ![Java Check](https://github.com/Volas171/AlexServerPlugin/workflows/Java%20Check/badge.svg)
 
 # Note: 
-dont believe in https://github.com/alexpvpmindustry/AlexServerPluginPublic i have legit proof of not doing what alex accuses me of **but you can believe what you want, i wont judge you**
-He also broke Apache License by making "his" repository have mit license but i wont do stuff since im nice.
+dont believe in https://github.com/alexpvpmindustry/AlexServerPluginPublic i have legit proof of not doing what alex accuses me of **but you can believe what you want, i wont judge you**.
 
 i also give alex credit of makng 30% of the plugin
 ### alex if you read this , dm me if you can , i didnt leak those webooks but anyways.
