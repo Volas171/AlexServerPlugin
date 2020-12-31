@@ -8,6 +8,7 @@ dont believe in https://github.com/alexpvpmindustry/AlexServerPluginPublic i hav
 i also give alex credit of makng 30% of the plugin
 ### alex if you read this , dm me if you can , i didnt leak those webooks but anyways.
 </div>
+this is outdated now since alex changed the code so i couldnt copyright strike but just so you know youll soon have an update.
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Blmaorep%7D/count.svg" alt="lmaorep :: Visitor's Count" /></p>
